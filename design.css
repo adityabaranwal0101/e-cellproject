@@ -1,0 +1,38 @@
+#zero{
+    text-align:right;
+    }
+img{
+    width :417px;
+    height:417px;
+    padding:20px;
+    border:5px solid black;
+    border-radius:10px;
+    margin:10px;
+    
+}
+#two{
+    width:467px;
+    height:467px;
+    border:5px solid black;
+    border-radius:10px;
+    background-color:mediumpurple;
+    margin:10px;
+}
+#three{
+    width:467px;
+    height:467px;
+    border:5px solid black;
+    background-color:silver;
+    border-radius:10px;
+    margin:10px;
+
+}
+.button{
+    width:130px;
+    height:130px;
+    background-color:darkblue;
+    margin:10px;
+}
+.button:active{
+background-color:  red;
+}
